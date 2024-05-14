@@ -22,5 +22,15 @@
         ]
     }
 
-
+"hero_3721": {
+        "name": "Piotr Swajda",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "16",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "12-08-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Siemiatycze"}           //Miasto
+            { "atributes_type": "power", "value": "Majstrowanie"}               //Moc :) 
+        ]
+    }
 }
